@@ -1,7 +1,7 @@
 ---
 name: "[\U0001F680 feature]"
 about: Add requirements of feature
-title: ''
+title: "[\U0001F680 feature] "
 labels: enhancement
 assignees: ''
 
